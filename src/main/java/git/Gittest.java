@@ -11,6 +11,6 @@ public class Gittest {
         System.out.println("hello git!!!");
         System.out.println("master");
         System.out.println("huodes");
-        System.out.println("21321231");
+        System.out.println("这是github仓库的代码");
     }
 }
